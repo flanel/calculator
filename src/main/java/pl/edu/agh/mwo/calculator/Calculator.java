@@ -23,5 +23,12 @@ public class Calculator {
     }
 
     public double avg(int... avgs) {
+        int counter = 0, sum = 0;
+        for (double arg: avgs
+             ) {
+            sum += arg;
+            counter++;
+        }
+        return sum/counter;
     }
 }

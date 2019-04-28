@@ -38,11 +38,17 @@ public class CalculatorTest {
         assertEquals(5, calc.mul(10,2));
     }
 
+    @Test
     @public void testAvg() {
         Calculator calc = new Calculator();
-        calc.avg();
-        assertEquals(1,1);
+        assertEquals(5,calc.avg(5,5));
 
+    }
+
+    @Test
+    @public void testAvg_three_arg() {
+        Calculator calc = new Calculator();
+        assertEquals(2,calc.avg(1,2,3));
     }
 
 
