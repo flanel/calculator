@@ -15,10 +15,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/calculator$CalculatorTest.ic" NAME="CalculatorTest Coverage Results" MODIFIED="1556444194833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/calculator$CalculatorTest_testSub.ic" NAME="CalculatorTest.testSub Coverage Results" MODIFIED="1556444168014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>pl.edu.agh.mwo.calculator.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/calculator$CalculatorTest_testSub.ic" NAME="CalculatorTest.testSub Coverage Results" MODIFIED="1556444168014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/calculator$CalculatorTest.ic" NAME="CalculatorTest Coverage Results" MODIFIED="1556444194833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>pl.edu.agh.mwo.calculator.*</FILTER>
     </SUITE>
   </component>
@@ -94,10 +94,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="27" />
-    <option name="width" value="960" />
-    <option name="height" value="1053" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1268" />
+    <option name="width" value="1299" />
+    <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -215,7 +215,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="pl.edu.agh.mwo.calculator" />
       <option name="MAIN_CLASS_NAME" value="pl.edu.agh.mwo.calculator.CalculatorTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
